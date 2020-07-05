@@ -1,4 +1,4 @@
-package zaj24_05.company;
+package zaj24_05.JDBCexample;
 
 public class Country {
     private String name;

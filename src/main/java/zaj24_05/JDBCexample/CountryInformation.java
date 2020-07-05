@@ -1,4 +1,4 @@
-package zaj24_05.company;
+package zaj24_05.JDBCexample;
 
 import java.sql.*;
 import java.util.LinkedList;
